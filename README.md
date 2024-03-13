@@ -1,1 +1,1 @@
-# Flip-Clock-App-in-E-ink-device
+# Flip-Clock-App-for-E-ink-device
